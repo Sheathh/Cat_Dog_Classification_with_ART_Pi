@@ -1,0 +1,27 @@
+[
+ {
+  "path": "/packages/iot/cJSON", 
+  "ver": "v1.7.14", 
+  "name": "CJSON"
+ }, 
+ {
+  "path": "/packages/iot/netutils", 
+  "ver": "v1.3.1", 
+  "name": "NETUTILS"
+ }, 
+ {
+  "path": "/packages/iot/iot_cloud/ali-iotkit", 
+  "ver": "v3.0.1", 
+  "name": "ALI_IOTKIT"
+ }, 
+ {
+  "path": "/packages/tools/EasyFlash", 
+  "ver": "v4.1.0", 
+  "name": "EASYFLASH"
+ }, 
+ {
+  "path": "/packages/system/fal", 
+  "ver": "v0.5.0", 
+  "name": "FAL"
+ }
+]
